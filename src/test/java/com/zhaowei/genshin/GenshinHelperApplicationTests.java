@@ -1,4 +1,4 @@
-package com.zhaowei.genshinhelper;
+package com.zhaowei.genshin;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import org.junit.jupiter.api.Test;

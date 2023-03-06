@@ -1,4 +1,4 @@
-package com.zhaowei.genshinhelper;
+package com.zhaowei.genshin;
 
 import com.baomidou.mybatisplus.annotation.DbType;
 import com.baomidou.mybatisplus.annotation.IdType;

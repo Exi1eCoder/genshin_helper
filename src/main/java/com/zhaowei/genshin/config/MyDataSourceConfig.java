@@ -1,4 +1,4 @@
-package com.zhaowei.genshinhelper.config;
+package com.zhaowei.genshin.config;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import org.springframework.boot.context.properties.ConfigurationProperties;
